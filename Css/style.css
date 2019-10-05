@@ -1,0 +1,36 @@
+body{
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+h1{
+	font-family: arial;
+	color: white;
+	text-align: center;
+}
+
+.frm{
+	position: absolute;
+	background-color: #2E86C1;
+	width: 20%;
+	height: 20%;
+	right: 40%;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: white;
+
+}
+
+.frm form{
+	position: absolute;
+	top: 25%;
+	font-family: arial;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+.frm input{
+	position: relative;
+	bottom: 3px;
+}
